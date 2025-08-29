@@ -64,10 +64,4 @@ This project demonstrates the ability to **combine analytics and strategy**, del
 
 ---
 
-## 📬 Connect With Me
 
----
-
-### ✅ Notes:
-- Ensure all uploaded data is **dummy or sanitized**.
-- Include **screenshots and video preview** for better engagement.
